@@ -9,7 +9,7 @@
     "HelloWorld"
   ],
   "icons": {
-    "default": "tools-icon.png"
+    "default": "icon.png"
   },
   "public": true,
   "targets": [
