@@ -1,0 +1,12 @@
+{
+  "name": "vsts-developer-tools.installextension",
+  "description": "Hello World",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/react-native-windows/azure-devops-extension-task-boilerplate.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "azure-pipelines-task-lib": "^2.8.0"
+  }
+}
